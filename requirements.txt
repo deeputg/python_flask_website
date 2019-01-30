@@ -3,7 +3,6 @@ gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
-pygobject==3.20.0
 python-dateutil==2.7.5
 pytz==2018.9
 six==1.12.0
